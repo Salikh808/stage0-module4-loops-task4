@@ -2,10 +2,6 @@ package school.mjc.stage0.loops.task4;
 
 public class TwoRangesSum {
 
-    public static void main(String[] args) {
-
-        printSumOfTwoRanges(0,3);
-    }
     public static void printSumOfTwoRanges(int numberToSkip, int lastInRow) {
 
         int skippedSum = 0;
